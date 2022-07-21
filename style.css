@@ -1,4 +1,4 @@
-body{
+body {
 	max-width: 1000px;
 	margin: 20px auto;
 	background-color: #1A1A1D;
@@ -8,7 +8,7 @@ body{
 	color: #dfdfdf;
 }
 
-h1{
+h1 {
 	font-size: 42px;
 }
 
@@ -16,7 +16,7 @@ ul {
 	display: block;
 }
 
-li{
+li {
 	margin: 4px 0;
 	font-family: monospace;
 	font-size: 16px;
@@ -26,7 +26,3 @@ img {
 	max-width: 900px;
 	margin: auto 0;
 }
-::selection {
-    background-color: green;
-}
-
