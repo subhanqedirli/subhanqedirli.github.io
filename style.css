@@ -1,12 +1,28 @@
-body{
-    background-color: #1A1A1D;
+body {
+	max-width: 1000px;
+	margin: 20px auto;
+	background-color: #1A1A1D;
 }
 
 * {
-    color: white;
+	color: #dfdfdf;
 }
 
-::selection {
-    background-color: chocolate;
+h1 {
+	font-size: 42px;
 }
 
+ul {
+	display: block;
+}
+
+li {
+	margin: 4px 0;
+	font-family: monospace;
+	font-size: 16px;
+}
+
+img {
+	max-width: 900px;
+	margin: auto 0;
+}
